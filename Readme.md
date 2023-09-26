@@ -6,7 +6,7 @@
 
 # WinForms Workspace Manager - Save and load runtime app layouts
 
-This example demonstrates the [WinForms Workspace Manager](https://docs.devexpress.com/WindowsForms/17674/controls-and-libraries/form-layout-managers/workspace-manager). The Workspace Manager provides a centralized mechanism to save/restore layouts of all Bar Managers, Ribbon Controls, Navigation Bars, Document and Dock Managers within your WinForms application.
+This example demonstrates the [WinForms Workspace Manager](https://docs.devexpress.com/WindowsForms/17674/controls-and-libraries/form-layout-managers/workspace-manager). The Workspace Manager has a centralized mechanism to save/restore layouts of all Bar Managers, Ribbon Controls, Navigation Bars, and Document and Dock Managers within your WinForms application.
 
 
 ## Files to Review
