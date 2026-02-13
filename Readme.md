@@ -25,7 +25,7 @@ This example demonstrates the [WinForms Workspace Manager](https://docs.devexpr
 
 * [DevExpress WinForms Workspace Manager - Tutorial Video (YouTube)](https://www.youtube.com/watch?v=aGbA9aep-pA)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-workspacemanager-saving-load-app-layout&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-workspacemanager-saving-load-app-layout&~~~was_helpful=no)
 
